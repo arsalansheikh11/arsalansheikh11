@@ -16,7 +16,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Quick Facts
+
 
 - 🔭 Currently building real-world software projects
 - 🌱 Constantly sharpening my development skills
