@@ -17,11 +17,10 @@
 <td width="50%" valign="top">
 
 
-
-- 🔭 Currently building real-world software projects
-- 🌱 Constantly sharpening my development skills
-- 💬 Ask me about JavaScript, Python & Web Development
-- ⚡ Fun fact: I debug faster with coffee ☕
+- 🔭 Currently focused on building scalable, real-world software solutions
+- 🌱 Continuously expanding my expertise across modern development practices
+- 💡 Specialized in JavaScript, Python, and full-stack web development
+- 🤝 Open to collaborating on impactful projects and open-source contributions
 
 </td>
 <td width="50%" valign="top">
